@@ -7,3 +7,5 @@ Some Common Example of User Agents other than Websites
 2. Email Id Scrapper from a given website
 
 3. Email Sender Client
+
+4. Price from E-Commerce site Scrapper

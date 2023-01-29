@@ -1,6 +1,6 @@
 # UserAgentsExamples
 
-- NOTE: Please look up laws regarding usage of scrappers, as it is considered illegal to use scarppers in some countries.
+- NOTE: Please look up the laws regarding the usage of scrappers, as it is considered illegal and is a punishable offence to use scarppers in some countries.
 
 Some Common Example of User Agents other than Websites
 

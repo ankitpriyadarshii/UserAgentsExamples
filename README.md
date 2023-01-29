@@ -1,4 +1,7 @@
 # UserAgentsExamples
+
+- NOTE: Please look up laws regarding usage of scrappers, as it is considered illegal to use scarppers in some countries.
+
 Some Common Example of User Agents other than Websites
 
 
